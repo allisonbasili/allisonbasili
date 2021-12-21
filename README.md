@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @allisonbasili!
-- 
-- my favorite project ive done was during my optics research
+- my favorite project ive done was for optics research...
 - it was not the most complex, but it taught me a lot and will be published.
 - you can find it under final project in myjupyternotebooks!
 -
