@@ -7,12 +7,8 @@
 - check out this final project I completed in a statistical analysis class:
 - https://stt3850-fall2020.github.io/ifndir-allisonbasili/ 
 along with other projects i completed along the way for data analysis:
-- null hypothesis:
-- https://stt3850-fall2020.github.io/ps-09-allisonbasili/PS09_source.html
 - bootstrapping:
 - https://stt3850-fall2020.github.io/ps-08-allisonbasili/PS08_source.html
-- sampling distribution:
-- https://stt3850-fall2020.github.io/sampling-distributions-    allisonbasili/sampling_distributions_ASU2.html
 - data wrangling:
 - https://stt3850-fall2020.github.io/ps-07-allisonbasili/PS07_source.html
 - 
