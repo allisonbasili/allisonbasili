@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allisonbasili!
 - my favorite project ive done was for optics research...
-- it is not the most complex, but it taught me a lot and will be published. you can find it under final project in myjupyternotebooks! i worked with interpolation and imaginary numbers.
+- it is not the most complex and just part of my complete code, but it taught me a lot and will be published. you can find it under **final project** in *myjupyternotebooks*! i worked with interpolation and imaginary numbers.
 -
 - the following projects are under private course repositories, so im sharing their web links!
 - final project I completed in a statistical analysis class:
