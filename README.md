@@ -1,15 +1,13 @@
 - 👋 Hi, I’m @allisonbasili!
 - my favorite project ive done was for optics research...
-- it was not the most complex, but it taught me a lot and will be published.
-- you can find it under final project in myjupyternotebooks!
+- it is not the most complex, but it taught me a lot and will be published. you can find it under final project in myjupyternotebooks! i worked with interpolation and imaginary numbers.
 -
-- check out this final project I completed in a statistical analysis class:
+- the following projects are under private course repositories, so im sharing their web links!
+- final project I completed in a statistical analysis class:
 - https://stt3850-fall2020.github.io/ifndir-allisonbasili/ 
-- along with other projects i completed along the way for data analysis:
 - bootstrapping:
 - https://stt3850-fall2020.github.io/ps-08-allisonbasili/PS08_source.html
 - data wrangling:
 - https://stt3850-fall2020.github.io/ps-07-allisonbasili/PS07_source.html
 - 
-
 - 📫 How to reach me : basiliac@appstate.edu
